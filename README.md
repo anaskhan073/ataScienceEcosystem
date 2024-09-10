@@ -1,1 +1,1 @@
-# ataScienceEcosystem
+# DataScienceEcosystem
